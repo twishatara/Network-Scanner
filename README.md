@@ -5,7 +5,7 @@ Python script that scans a local network to detect active decives using ARP. Ide
 # Usage:
         1. Install dependencies: pip install scapy
         2. Run the script with admin privliges 
-		- sudo python3 network_scanner.py
+		sudo python3 network_scanner.py
 	3. When prompted, enter your network range
 
 # Functionality
